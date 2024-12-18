@@ -5,8 +5,8 @@ The content here focuses on mostly LLM-related topics. As part of our project wo
 and we try to add the most important details here to be able to keep up with the fast paced world of generative AI.
 
 # Overview: Basic LLM Solution with RAG and Agents
-![rag_flow 12_2024.png](images/rag_flow 12_2024.png)
 
+![rag_flow 12_2024.png](./images/rag_flow%2012_2024.png)
 
 
 

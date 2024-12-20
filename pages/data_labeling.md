@@ -1,7 +1,5 @@
 # Data Labeling Tools
 
-## Data Labeling
-
 ##### Label Studio
 
 **Label Studio** is an open-source data labeling platform developed by HumanSignal, designed to prepare 

@@ -11,14 +11,14 @@ cases we always link to the original content of cause.
 
 Short explanations, code fragments etc.
 
-[Enable CoPilot (free) in VSCode](gists/enable_copilot_vscode.md)
+* [Enable CoPilot (free) in VSCode](gists/enable_copilot_vscode.md)
 
 ## Pages
 
 We cover specific topics on the following pages.
 
-[Data Labeling](pages/data_labeling.md)
-[LLM Visualisation](pages/llm_visualisation.md)
+* [Data Labeling](pages/data_labeling.md)
+* [LLM Visualisation](pages/llm_visualisation.md)
 
 # Overview: Basic LLM Solution with RAG and Agents
 

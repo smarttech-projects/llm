@@ -4,6 +4,12 @@
 The content here focuses on mostly LLM-related topics. As part of our project work at [SmarttechLabs](https://www.smarttechlabs.de) we discover a lot of LLM-related tools, blog articles
 and we try to add the most important details here to be able to keep up with the fast paced world of generative AI.
 
+**Note**: We are sometimes just using the original content since there is no value-add to rephrase good content. In those 
+cases we always link to the original content of cause.
+
+## Gists
+[Enable CoPilot (free) in VSCode](gists/enable_copilot_vscode.md)
+
 # Overview: Basic LLM Solution with RAG and Agents
 
 ![rag_flow 12_2024.png](./images/rag_flow%2012_2024.png)
